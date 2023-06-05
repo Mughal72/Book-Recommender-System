@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Book Recommender System
+Home-page: https://github.com/anber sattar/Books-Recommender-System-Using-Machine-Learning
+Author: anber sattar
+Author-email: ambersattar29@gmail.com
+Requires-Python: >=3.10.11
+Description-Content-Type: text/markdown
+
+Project: Book Recommender System Using Machine Learning! | Collaborative Filtering Based
